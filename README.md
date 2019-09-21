@@ -10,13 +10,12 @@
 #### Pre-shared (해온 것을 공유)
 <details>
   <summary> Click to expand! </summary>
-  
+  1. 데이터셋 소개자료
+  2. 지난 프로젝트에서의 방황 이야기
 </details>
 
 #### Contents and Decisions (결정 사항)
-1. 데이터셋 소개자료
-2. 지난 프로젝트에서의 방황 이야기
-3. 앞으로 기대하는 프로세스: 데이터 분석 A to Z 를 경험해보는 것이 우선순위 목표
+- 앞으로 기대하는 프로세스: 데이터 분석 A to Z 를 경험해보는 것이 우선순위 목표
 
 #### Forward Plans (앞으로 할 것을 이야기)
 1. 변수설명 한글 파일 + pdf 파일 
